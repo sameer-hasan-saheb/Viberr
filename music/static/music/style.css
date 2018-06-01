@@ -1,0 +1,13 @@
+body{
+  background: url("images/background.png");
+  //background-repeat: no-repeat;
+  //background-size: cover;
+}
+
+.navbar{
+  border-radius: 0;
+}
+
+.navbar-brand{
+  font-family: 'satisfy', cursive;
+}
